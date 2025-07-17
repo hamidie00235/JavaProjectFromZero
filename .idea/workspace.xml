@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="hello world and calculator commits">
-      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/EvenOddNumber.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Conditions (if / else) using even and odd number">
+      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/ForLoops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +34,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calculation.executor": "Run",
+    "Application.EvenOddNumber.executor": "Run",
     "Application.PJuly.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EvenOddNumber">
+  <component name="RunManager" selected="Application.ForLoops">
     <configuration name="Calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectJuly.Calculation" />
       <module name="MyProjectJuly" />
@@ -67,6 +68,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectJuly.ForLoops" />
+      <module name="MyProjectJuly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjectJuly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PJuly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectJuly.PJuly" />
       <module name="MyProjectJuly" />
@@ -82,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoops" />
         <item itemvalue="Application.EvenOddNumber" />
         <item itemvalue="Application.Calculation" />
         <item itemvalue="Application.PJuly" />
@@ -105,11 +120,20 @@
       <option name="project" value="LOCAL" />
       <updated>1752680891451</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Conditions (if / else) using even and odd number">
+      <option name="closed" value="true" />
+      <created>1752683899501</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752683899501</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello world and calculator commits" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello world and calculator commits" />
+    <MESSAGE value="Conditions (if / else) using even and odd number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditions (if / else) using even and odd number" />
   </component>
 </project>
