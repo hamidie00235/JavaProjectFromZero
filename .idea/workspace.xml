@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="for loop structure">
-      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/NumberGuessing.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment=" Number Guessing Game">
+      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,7 @@
   "keyToString": {
     "Application.Calculation.executor": "Run",
     "Application.EvenOddNumber.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
     "Application.ForLoops.executor": "Run",
     "Application.NumberGuessing.executor": "Run",
     "Application.PJuly.executor": "Run",
@@ -43,7 +44,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberGuessing">
+  <component name="RunManager" selected="Application.FizzBuzz">
     <configuration name="Calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectJuly.Calculation" />
       <module name="MyProjectJuly" />
@@ -59,6 +60,19 @@
     </configuration>
     <configuration name="EvenOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectJuly.EvenOddNumber" />
+      <module name="MyProjectJuly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjectJuly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectJuly.FizzBuzz" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
@@ -96,26 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PJuly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjectJuly.PJuly" />
-      <module name="MyProjectJuly" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjectJuly.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.NumberGuessing" />
         <item itemvalue="Application.ForLoops" />
         <item itemvalue="Application.EvenOddNumber" />
         <item itemvalue="Application.Calculation" />
-        <item itemvalue="Application.PJuly" />
       </list>
     </recent_temporary>
   </component>
@@ -152,13 +153,22 @@
       <option name="project" value="LOCAL" />
       <updated>1752781732094</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" Number Guessing Game">
+      <option name="closed" value="true" />
+      <created>1752879202146</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752879202146</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello world and calculator commits" />
     <MESSAGE value="Conditions (if / else) using even and odd number" />
     <MESSAGE value="for loop structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loop structure" />
+    <MESSAGE value=" Number Guessing Game" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Number Guessing Game" />
   </component>
 </project>
