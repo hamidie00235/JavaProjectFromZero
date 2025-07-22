@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment=" Number Guessing Game">
-      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/FizzBuzz.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="FizzBuzz">
+      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Arrays.executor": "Run",
     "Application.Calculation.executor": "Run",
     "Application.EvenOddNumber.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
@@ -44,9 +45,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FizzBuzz">
-    <configuration name="Calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjectJuly.Calculation" />
+  <component name="RunManager" selected="Application.Arrays">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectJuly.Arrays" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.NumberGuessing" />
         <item itemvalue="Application.ForLoops" />
         <item itemvalue="Application.EvenOddNumber" />
-        <item itemvalue="Application.Calculation" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752879202146</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="FizzBuzz">
+      <option name="closed" value="true" />
+      <created>1753014034947</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753014034947</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,6 +178,7 @@
     <MESSAGE value="Conditions (if / else) using even and odd number" />
     <MESSAGE value="for loop structure" />
     <MESSAGE value=" Number Guessing Game" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Number Guessing Game" />
+    <MESSAGE value="FizzBuzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz" />
   </component>
 </project>
