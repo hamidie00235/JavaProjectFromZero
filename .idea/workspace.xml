@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="FizzBuzz">
-      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/Arrays.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="calcul of min ,max,sum,and average by using arrays">
+      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/Methodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ProjectJuly/Methodes.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -38,6 +42,7 @@
     "Application.EvenOddNumber.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.ForLoops.executor": "Run",
+    "Application.Methodes.executor": "Run",
     "Application.NumberGuessing.executor": "Run",
     "Application.PJuly.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -45,22 +50,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Arrays">
+  <component name="RunManager" selected="Application.Methodes">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectJuly.Arrays" />
-      <module name="MyProjectJuly" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjectJuly.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EvenOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjectJuly.EvenOddNumber" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
@@ -98,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Methodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectJuly.Methodes" />
+      <module name="MyProjectJuly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjectJuly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberGuessing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectJuly.NumberGuessing" />
       <module name="MyProjectJuly" />
@@ -113,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Methodes" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.NumberGuessing" />
         <item itemvalue="Application.ForLoops" />
-        <item itemvalue="Application.EvenOddNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753014034947</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="calcul of min ,max,sum,and average by using arrays">
+      <option name="closed" value="true" />
+      <created>1753196941506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753196941506</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,6 +192,7 @@
     <MESSAGE value="for loop structure" />
     <MESSAGE value=" Number Guessing Game" />
     <MESSAGE value="FizzBuzz" />
-    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz" />
+    <MESSAGE value="calcul of min ,max,sum,and average by using arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="calcul of min ,max,sum,and average by using arrays" />
   </component>
 </project>
