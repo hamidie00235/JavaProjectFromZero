@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="operations made using method">
-      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/StringInJava.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="String in java">
+      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/OopStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjectJuly/StringInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjectJuly/StringInJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,7 @@
     "Application.ForLoops.executor": "Run",
     "Application.Methodes.executor": "Run",
     "Application.NumberGuessing.executor": "Run",
+    "Application.OopStudent.executor": "Run",
     "Application.PJuly.executor": "Run",
     "Application.StringInJava.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -50,7 +53,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringInJava">
+  <component name="RunManager" selected="Application.OopStudent">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectJuly.Arrays" />
       <module name="MyProjectJuly" />
@@ -90,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGuessing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjectJuly.NumberGuessing" />
+    <configuration name="OopStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectJuly.OopStudent" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OopStudent" />
         <item itemvalue="Application.StringInJava" />
         <item itemvalue="Application.Methodes" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.NumberGuessing" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753371918439</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="String in java">
+      <option name="closed" value="true" />
+      <created>1753454331867</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753454331867</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -202,6 +213,7 @@
     <MESSAGE value="FizzBuzz" />
     <MESSAGE value="calcul of min ,max,sum,and average by using arrays" />
     <MESSAGE value="operations made using method" />
-    <option name="LAST_COMMIT_MESSAGE" value="operations made using method" />
+    <MESSAGE value="String in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="String in java" />
   </component>
 </project>

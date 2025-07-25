@@ -9,7 +9,7 @@ public class StringInJava {
         Scanner input =new Scanner(System.in);
         System.out.println("Enter your password:");
 
-        String password = input.nextLine()
+        String password = input.nextLine();
 
         boolean hasUpperCase = false;
         boolean hasDigit = false;
