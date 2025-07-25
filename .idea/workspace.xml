@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="calcul of min ,max,sum,and average by using arrays">
-      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/Methodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="operations made using method">
+      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/StringInJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +44,13 @@
     "Application.Methodes.executor": "Run",
     "Application.NumberGuessing.executor": "Run",
     "Application.PJuly.executor": "Run",
+    "Application.StringInJava.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Methodes">
+  <component name="RunManager" selected="Application.StringInJava">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectJuly.Arrays" />
       <module name="MyProjectJuly" />
@@ -66,19 +66,6 @@
     </configuration>
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectJuly.FizzBuzz" />
-      <module name="MyProjectJuly" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjectJuly.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjectJuly.ForLoops" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
@@ -116,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectJuly.StringInJava" />
+      <module name="MyProjectJuly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjectJuly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringInJava" />
         <item itemvalue="Application.Methodes" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.NumberGuessing" />
-        <item itemvalue="Application.ForLoops" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753196941506</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="operations made using method">
+      <option name="closed" value="true" />
+      <created>1753371918439</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753371918439</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,6 +201,7 @@
     <MESSAGE value=" Number Guessing Game" />
     <MESSAGE value="FizzBuzz" />
     <MESSAGE value="calcul of min ,max,sum,and average by using arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="calcul of min ,max,sum,and average by using arrays" />
+    <MESSAGE value="operations made using method" />
+    <option name="LAST_COMMIT_MESSAGE" value="operations made using method" />
   </component>
 </project>
