@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="mini Project using OOP Concepts in Java">
-      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/BankAccount.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="mini Project BankAccountManager using OOP Concepts in Java">
+      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/LibraryBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "Application.EvenOddNumber.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.ForLoops.executor": "Run",
+    "Application.LibraryBook.executor": "Run",
     "Application.Methodes.executor": "Run",
     "Application.NumberGuessing.executor": "Run",
     "Application.OopStudent.executor": "Run",
@@ -53,9 +54,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BankAccount">
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjectJuly.Arrays" />
+  <component name="RunManager" selected="Application.LibraryBook">
+    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectJuly.BankAccount" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjectJuly.BankAccount" />
+    <configuration name="LibraryBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectJuly.LibraryBook" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LibraryBook" />
         <item itemvalue="Application.BankAccount" />
         <item itemvalue="Application.OopStudent" />
         <item itemvalue="Application.StringInJava" />
         <item itemvalue="Application.Methodes" />
-        <item itemvalue="Application.Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753475404867</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="mini Project BankAccountManager using OOP Concepts in Java">
+      <option name="closed" value="true" />
+      <created>1753571145884</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753571145884</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,6 +232,7 @@
     <MESSAGE value="operations made using method" />
     <MESSAGE value="String in java" />
     <MESSAGE value="mini Project using OOP Concepts in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="mini Project using OOP Concepts in Java" />
+    <MESSAGE value="mini Project BankAccountManager using OOP Concepts in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="mini Project BankAccountManager using OOP Concepts in Java" />
   </component>
 </project>
