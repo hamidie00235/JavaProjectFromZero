@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="mini project library book using java">
-      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/Movie.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="movie project using java">
+      <change afterPath="$PROJECT_DIR$/src/ProjectJuly/Contact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
     "Application.Arrays.executor": "Run",
     "Application.BankAccount.executor": "Run",
     "Application.Calculation.executor": "Run",
+    "Application.Contact.executor": "Run",
     "Application.EvenOddNumber.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.ForLoops.executor": "Run",
@@ -55,9 +56,22 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Movie">
+  <component name="RunManager" selected="Application.Contact">
     <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectJuly.BankAccount" />
+      <module name="MyProjectJuly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjectJuly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Contact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectJuly.Contact" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
@@ -108,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjectJuly.StringInJava" />
-      <module name="MyProjectJuly" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjectJuly.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Contact" />
         <item itemvalue="Application.Movie" />
         <item itemvalue="Application.LibraryBook" />
         <item itemvalue="Application.BankAccount" />
         <item itemvalue="Application.OopStudent" />
-        <item itemvalue="Application.StringInJava" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753574713272</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="movie project using java">
+      <option name="closed" value="true" />
+      <created>1753629265909</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1753629265910</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -243,6 +252,7 @@
     <MESSAGE value="mini Project using OOP Concepts in Java" />
     <MESSAGE value="mini Project BankAccountManager using OOP Concepts in Java" />
     <MESSAGE value="mini project library book using java" />
-    <option name="LAST_COMMIT_MESSAGE" value="mini project library book using java" />
+    <MESSAGE value="movie project using java" />
+    <option name="LAST_COMMIT_MESSAGE" value="movie project using java" />
   </component>
 </project>
