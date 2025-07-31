@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Customer,product and order project using java">
-      <change afterPath="$PROJECT_DIR$/src/OnlineShoppingSystem/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OnlineShoppingSystem/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OnlineShoppingSystem/ShoppingCart.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Online Shopping System project using java">
+      <change afterPath="$PROJECT_DIR$/src/OnlineStoreSystem/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnlineStoreSystem/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnlineStoreSystem/StoreApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +56,14 @@
     "Application.Order.executor": "Run",
     "Application.PJuly.executor": "Run",
     "Application.ShoppingCart.executor": "Run",
+    "Application.StoreApp.executor": "Run",
     "Application.StringInJava.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ShoppingCart">
+  <component name="RunManager" selected="Application.StoreApp">
     <configuration name="Contact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectJuly.Contact" />
       <module name="MyProjectJuly" />
@@ -78,19 +79,6 @@
     </configuration>
     <configuration name="Course" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjectJuly.Course" />
-      <module name="MyProjectJuly" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjectJuly.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Movie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjectJuly.Movie" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
@@ -128,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StoreApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnlineStoreSystem.StoreApp" />
+      <module name="MyProjectJuly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OnlineStoreSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StoreApp" />
         <item itemvalue="Application.ShoppingCart" />
         <item itemvalue="Application.Order" />
         <item itemvalue="Application.Course" />
         <item itemvalue="Application.Contact" />
-        <item itemvalue="Application.Movie" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753800192347</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Online Shopping System project using java">
+      <option name="closed" value="true" />
+      <created>1753894925408</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1753894925408</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -286,6 +295,7 @@
     <MESSAGE value="Contact project using java" />
     <MESSAGE value="Course et Student project using java" />
     <MESSAGE value="Customer,product and order project using java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Customer,product and order project using java" />
+    <MESSAGE value="Online Shopping System project using java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Online Shopping System project using java" />
   </component>
 </project>
