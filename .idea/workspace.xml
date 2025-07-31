@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Online Shopping System project using java">
-      <change afterPath="$PROJECT_DIR$/src/OnlineStoreSystem/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OnlineStoreSystem/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OnlineStoreSystem/StoreApp.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Simulates a basic online store where customers can add items to a cart and view total prices.">
+      <change afterPath="$PROJECT_DIR$/src/StudentReportSystem/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentReportSystem/ReportCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentReportSystem/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -276,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753894925408</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Simulates a basic online store where customers can add items to a cart and view total prices.">
+      <option name="closed" value="true" />
+      <created>1753924238548</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1753924238548</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -296,6 +304,7 @@
     <MESSAGE value="Course et Student project using java" />
     <MESSAGE value="Customer,product and order project using java" />
     <MESSAGE value="Online Shopping System project using java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Online Shopping System project using java" />
+    <MESSAGE value="Simulates a basic online store where customers can add items to a cart and view total prices." />
+    <option name="LAST_COMMIT_MESSAGE" value="Simulates a basic online store where customers can add items to a cart and view total prices." />
   </component>
 </project>
