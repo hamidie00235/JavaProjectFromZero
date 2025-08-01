@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Simulates a basic online store where customers can add items to a cart and view total prices.">
-      <change afterPath="$PROJECT_DIR$/src/StudentReportSystem/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentReportSystem/ReportCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentReportSystem/Student.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="a Java program to manage student grade reports using multiple classes and encapsulation.">
+      <change afterPath="$PROJECT_DIR$/src/HospitalAppointmentSystem/Appointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HospitalAppointmentSystem/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HospitalAppointmentSystem/Patient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Appointment.executor": "Run",
     "Application.Arrays.executor": "Run",
     "Application.BankAccount.executor": "Run",
     "Application.Calculation.executor": "Run",
@@ -63,13 +64,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StoreApp">
-    <configuration name="Contact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjectJuly.Contact" />
+  <component name="RunManager" selected="Application.Appointment">
+    <configuration name="Appointment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HospitalAppointmentSystem.Appointment" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProjectJuly.*" />
+          <option name="PATTERN" value="HospitalAppointmentSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Course" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjectJuly.Course" />
+    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectJuly.BankAccount" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Appointment" />
+        <item itemvalue="Application.BankAccount" />
         <item itemvalue="Application.StoreApp" />
         <item itemvalue="Application.ShoppingCart" />
         <item itemvalue="Application.Order" />
-        <item itemvalue="Application.Course" />
-        <item itemvalue="Application.Contact" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753924238548</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="a Java program to manage student grade reports using multiple classes and encapsulation.">
+      <option name="closed" value="true" />
+      <created>1753964425117</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1753964425117</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -305,6 +314,7 @@
     <MESSAGE value="Customer,product and order project using java" />
     <MESSAGE value="Online Shopping System project using java" />
     <MESSAGE value="Simulates a basic online store where customers can add items to a cart and view total prices." />
-    <option name="LAST_COMMIT_MESSAGE" value="Simulates a basic online store where customers can add items to a cart and view total prices." />
+    <MESSAGE value="a Java program to manage student grade reports using multiple classes and encapsulation." />
+    <option name="LAST_COMMIT_MESSAGE" value="a Java program to manage student grade reports using multiple classes and encapsulation." />
   </component>
 </project>
