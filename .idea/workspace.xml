@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Simulate a basic online system where a student can register for courses.">
-      <change afterPath="$PROJECT_DIR$/src/HotelReservationSystem/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HotelReservationSystem/HotelSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HotelReservationSystem/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HotelReservationSystem/Room.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Hotel Reservation System">
+      <change afterPath="$PROJECT_DIR$/src/PharmacyInventorySystem/InventoryEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PharmacyInventorySystem/Medicine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PharmacyInventorySystem/PharmacySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PharmacyInventorySystem/Supplier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     "Application.OopStudent.executor": "Run",
     "Application.Order.executor": "Run",
     "Application.PJuly.executor": "Run",
+    "Application.PharmacySystem.executor": "Run",
     "Application.RegistrationSystem.executor": "Run",
     "Application.ShoppingCart.executor": "Run",
     "Application.StoreApp.executor": "Run",
@@ -68,26 +69,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HotelSystem">
+  <component name="RunManager" selected="Application.PharmacySystem">
     <configuration name="Appointment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HospitalAppointmentSystem.Appointment" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HospitalAppointmentSystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProjectJuly.BankAccount" />
-      <module name="MyProjectJuly" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProjectJuly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PharmacySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PharmacyInventorySystem.PharmacySystem" />
+      <module name="MyProjectJuly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PharmacyInventorySystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RegistrationSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OnlineCourseRegistrationSystem.RegistrationSystem" />
       <module name="MyProjectJuly" />
@@ -136,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PharmacySystem" />
         <item itemvalue="Application.HotelSystem" />
         <item itemvalue="Application.HotelReservationSystem.RegistrationSystem" />
         <item itemvalue="Application.RegistrationSystem" />
         <item itemvalue="Application.Appointment" />
-        <item itemvalue="Application.BankAccount" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754130557788</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Hotel Reservation System">
+      <option name="closed" value="true" />
+      <created>1754168865755</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1754168865755</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -353,6 +362,7 @@
     <MESSAGE value="a Java program to manage student grade reports using multiple classes and encapsulation." />
     <MESSAGE value="Simulate a simple hospital system where a patient books an appointment with a doctor" />
     <MESSAGE value="Simulate a basic online system where a student can register for courses." />
-    <option name="LAST_COMMIT_MESSAGE" value="Simulate a basic online system where a student can register for courses." />
+    <MESSAGE value="Hotel Reservation System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hotel Reservation System" />
   </component>
 </project>
