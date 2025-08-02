@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Simulate a simple hospital system where a patient books an appointment with a doctor">
-      <change afterPath="$PROJECT_DIR$/src/OnlineCourseRegistrationSystem/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OnlineCourseRegistrationSystem/Registration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OnlineCourseRegistrationSystem/RegistrationSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OnlineCourseRegistrationSystem/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Simulate a basic online system where a student can register for courses.">
+      <change beforePath="$PROJECT_DIR$/src/OnlineCourseRegistrationSystem/RegistrationSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OnlineCourseRegistrationSystem/RegistrationSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -303,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754073307297</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Simulate a basic online system where a student can register for courses.">
+      <option name="closed" value="true" />
+      <created>1754130182479</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1754130182479</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -326,6 +330,7 @@
     <MESSAGE value="Simulates a basic online store where customers can add items to a cart and view total prices." />
     <MESSAGE value="a Java program to manage student grade reports using multiple classes and encapsulation." />
     <MESSAGE value="Simulate a simple hospital system where a patient books an appointment with a doctor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simulate a simple hospital system where a patient books an appointment with a doctor" />
+    <MESSAGE value="Simulate a basic online system where a student can register for courses." />
+    <option name="LAST_COMMIT_MESSAGE" value="Simulate a basic online system where a student can register for courses." />
   </component>
 </project>
