@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Simulate a basic online system where a student can register for courses.">
-      <change beforePath="$PROJECT_DIR$/src/OnlineCourseRegistrationSystem/RegistrationSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OnlineCourseRegistrationSystem/RegistrationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelReservationSystem/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelReservationSystem/HotelSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelReservationSystem/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelReservationSystem/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +50,8 @@
     "Application.EvenOddNumber.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.ForLoops.executor": "Run",
+    "Application.HotelReservationSystem.RegistrationSystem.executor": "Run",
+    "Application.HotelSystem.executor": "Run",
     "Application.LibraryBook.executor": "Run",
     "Application.Methodes.executor": "Run",
     "Application.Movie.executor": "Run",
@@ -62,7 +68,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RegistrationSystem">
+  <component name="RunManager" selected="Application.HotelSystem">
     <configuration name="Appointment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HospitalAppointmentSystem.Appointment" />
       <module name="MyProjectJuly" />
@@ -89,6 +95,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HotelReservationSystem.RegistrationSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HotelReservationSystem.RegistrationSystem" />
+      <module name="MyProjectJuly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HotelReservationSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HotelReservationSystem.HotelSystem" />
+      <module name="MyProjectJuly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HotelReservationSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RegistrationSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OnlineCourseRegistrationSystem.RegistrationSystem" />
       <module name="MyProjectJuly" />
@@ -102,39 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingCart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OnlineShoppingSystem.ShoppingCart" />
-      <module name="MyProjectJuly" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OnlineShoppingSystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StoreApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OnlineStoreSystem.StoreApp" />
-      <module name="MyProjectJuly" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OnlineStoreSystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HotelSystem" />
+        <item itemvalue="Application.HotelReservationSystem.RegistrationSystem" />
         <item itemvalue="Application.RegistrationSystem" />
         <item itemvalue="Application.Appointment" />
         <item itemvalue="Application.BankAccount" />
-        <item itemvalue="Application.StoreApp" />
-        <item itemvalue="Application.ShoppingCart" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +313,23 @@
       <option name="project" value="LOCAL" />
       <updated>1754130182479</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Simulate a basic online system where a student can register for courses.">
+      <option name="closed" value="true" />
+      <created>1754130509473</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1754130509473</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Simulate a basic online system where a student can register for courses.">
+      <option name="closed" value="true" />
+      <created>1754130557788</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1754130557788</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
