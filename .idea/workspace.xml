@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Pharmacy Inventory System">
-      <change afterPath="$PROJECT_DIR$/src/StudentAttendanceTracker/Attendance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentAttendanceTracker/AttendanceManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentAttendanceTracker/Student.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Student Attendance Tracker">
+      <change afterPath="$PROJECT_DIR$/src/OnlineExamSystem/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnlineExamSystem/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnlineExamSystem/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -346,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754178674964</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Student Attendance Tracker">
+      <option name="closed" value="true" />
+      <created>1754325675576</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1754325675576</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -372,6 +380,7 @@
     <MESSAGE value="Simulate a basic online system where a student can register for courses." />
     <MESSAGE value="Hotel Reservation System" />
     <MESSAGE value="Pharmacy Inventory System" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pharmacy Inventory System" />
+    <MESSAGE value="Student Attendance Tracker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student Attendance Tracker" />
   </component>
 </project>
