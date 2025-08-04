@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Hotel Reservation System">
-      <change afterPath="$PROJECT_DIR$/src/PharmacyInventorySystem/InventoryEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PharmacyInventorySystem/Medicine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PharmacyInventorySystem/PharmacySystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PharmacyInventorySystem/Supplier.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Pharmacy Inventory System">
+      <change afterPath="$PROJECT_DIR$/src/StudentAttendanceTracker/Attendance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentAttendanceTracker/AttendanceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentAttendanceTracker/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +42,7 @@
   "keyToString": {
     "Application.Appointment.executor": "Run",
     "Application.Arrays.executor": "Run",
+    "Application.AttendanceManager.executor": "Run",
     "Application.BankAccount.executor": "Run",
     "Application.Calculation.executor": "Run",
     "Application.Contact.executor": "Run",
@@ -69,13 +69,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PharmacySystem">
-    <configuration name="Appointment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HospitalAppointmentSystem.Appointment" />
+  <component name="RunManager" selected="Application.AttendanceManager">
+    <configuration name="AttendanceManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentAttendanceTracker.AttendanceManager" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HospitalAppointmentSystem.*" />
+          <option name="PATTERN" value="StudentAttendanceTracker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AttendanceManager" />
         <item itemvalue="Application.PharmacySystem" />
         <item itemvalue="Application.HotelSystem" />
         <item itemvalue="Application.HotelReservationSystem.RegistrationSystem" />
         <item itemvalue="Application.RegistrationSystem" />
-        <item itemvalue="Application.Appointment" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754168865755</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Pharmacy Inventory System">
+      <option name="closed" value="true" />
+      <created>1754178674964</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1754178674964</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -363,6 +371,7 @@
     <MESSAGE value="Simulate a simple hospital system where a patient books an appointment with a doctor" />
     <MESSAGE value="Simulate a basic online system where a student can register for courses." />
     <MESSAGE value="Hotel Reservation System" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hotel Reservation System" />
+    <MESSAGE value="Pharmacy Inventory System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pharmacy Inventory System" />
   </component>
 </project>
