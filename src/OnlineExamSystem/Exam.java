@@ -21,5 +21,6 @@ public class Exam {
     }
 
     public Question[] getQuestions() {
+        return new Question[0];
     }
 }
