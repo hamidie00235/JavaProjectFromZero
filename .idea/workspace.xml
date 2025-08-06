@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Project: School Management System (Using Inheritance)">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/VehicleManagementSystem/HospitalManagementSystem/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/VehicleManagementSystem/HospitalManagementSystem/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/VehicleManagementSystem/HospitalManagementSystem/Person.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Project: Hospital Management System (Using Inheritance)">
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/VehicleManagementSystem/PaymentSystem/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/VehicleManagementSystem/PaymentSystem/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/VehicleManagementSystem/PaymentSystem/PaypalPayment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
     "Application.OopStudent.executor": "Run",
     "Application.Order.executor": "Run",
     "Application.PJuly.executor": "Run",
+    "Application.Patient.executor": "Run",
     "Application.PharmacySystem.executor": "Run",
     "Application.RegistrationSystem.executor": "Run",
     "Application.ShoppingCart.executor": "Run",
@@ -380,11 +381,18 @@
       <option name="project" value="LOCAL" />
       <updated>1754441136923</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Project: Hospital Management System (Using Inheritance)">
+      <option name="closed" value="true" />
+      <created>1754442885237</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1754442885237</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Conditions (if / else) using even and odd number" />
     <MESSAGE value="for loop structure" />
     <MESSAGE value=" Number Guessing Game" />
     <MESSAGE value="FizzBuzz" />
@@ -409,6 +417,7 @@
     <MESSAGE value="an Online Exam System" />
     <MESSAGE value="Mini Project: Vehicle Management System (With Inheritance)" />
     <MESSAGE value="Project: School Management System (Using Inheritance)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project: School Management System (Using Inheritance)" />
+    <MESSAGE value="Project: Hospital Management System (Using Inheritance)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project: Hospital Management System (Using Inheritance)" />
   </component>
 </project>
