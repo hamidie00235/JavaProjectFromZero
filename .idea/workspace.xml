@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Mini Project: Vehicle Management System (With Inheritance)">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/VehicleManagementSystem/SchoolManagementSystem/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/VehicleManagementSystem/SchoolManagementSystem/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/VehicleManagementSystem/SchoolManagementSystem/Teacher.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Project: School Management System (Using Inheritance)">
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/VehicleManagementSystem/HospitalManagementSystem/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/VehicleManagementSystem/HospitalManagementSystem/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/VehicleManagementSystem/HospitalManagementSystem/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Teacher">
+  <component name="RunManager" selected="Application.Patient">
     <configuration name="AttendanceManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StudentAttendanceTracker.AttendanceManager" />
       <module name="MyProjectJuly" />
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HotelSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HotelReservationSystem.HotelSystem" />
+    <configuration name="Patient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.VehicleManagementSystem.HospitalManagementSystem.Patient" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HotelReservationSystem.*" />
+          <option name="PATTERN" value="Inheritance.VehicleManagementSystem.HospitalManagementSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Patient" />
         <item itemvalue="Application.Teacher" />
         <item itemvalue="Application.Car" />
         <item itemvalue="Application.AttendanceManager" />
         <item itemvalue="Application.PharmacySystem" />
-        <item itemvalue="Application.HotelSystem" />
       </list>
     </recent_temporary>
   </component>
@@ -372,11 +372,18 @@
       <option name="project" value="LOCAL" />
       <updated>1754414878949</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Project: School Management System (Using Inheritance)">
+      <option name="closed" value="true" />
+      <created>1754441136923</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1754441136923</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="hello world and calculator commits" />
     <MESSAGE value="Conditions (if / else) using even and odd number" />
     <MESSAGE value="for loop structure" />
     <MESSAGE value=" Number Guessing Game" />
@@ -401,6 +408,7 @@
     <MESSAGE value="Student Attendance Tracker" />
     <MESSAGE value="an Online Exam System" />
     <MESSAGE value="Mini Project: Vehicle Management System (With Inheritance)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini Project: Vehicle Management System (With Inheritance)" />
+    <MESSAGE value="Project: School Management System (Using Inheritance)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project: School Management System (Using Inheritance)" />
   </component>
 </project>
