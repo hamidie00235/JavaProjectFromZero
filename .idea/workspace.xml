@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="E-Commerce Shipping System (with Abstraction)">
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/PlayerSystem/Mp3Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/PlayerSystem/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/PlayerSystem/StreamingService.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Build a Music Player System using interfaces.">
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/PlayerSystem/Shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/PlayerSystem/Shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/PlayerSystem/Shape/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "Application.PJuly.executor": "Run",
     "Application.Patient.executor": "Run",
     "Application.PharmacySystem.executor": "Run",
+    "Application.Rectangle.executor": "Run",
     "Application.RegistrationSystem.executor": "Run",
     "Application.ShoppingCart.executor": "Run",
     "Application.StoreApp.executor": "Run",
@@ -75,20 +76,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StreamingService">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.VehicleManagementSystem.Car" />
-      <module name="MyProjectJuly" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Inheritance.VehicleManagementSystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Rectangle">
     <configuration name="FedEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inheritance.VehicleManagementSystem.ECommerceShippingSystem.FedEx" />
       <module name="MyProjectJuly" />
@@ -108,6 +96,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Inheritance.VehicleManagementSystem.HospitalManagementSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.PlayerSystem.Shape.Rectangle" />
+      <module name="MyProjectJuly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interfaces.PlayerSystem.Shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.StreamingService" />
         <item itemvalue="Application.FedEx" />
         <item itemvalue="Application.Patient" />
         <item itemvalue="Application.Teacher" />
-        <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
   </component>
@@ -408,11 +409,18 @@
       <option name="project" value="LOCAL" />
       <updated>1754567347178</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Build a Music Player System using interfaces.">
+      <option name="closed" value="true" />
+      <created>1754612196804</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1754612196804</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="FizzBuzz" />
     <MESSAGE value="calcul of min ,max,sum,and average by using arrays" />
     <MESSAGE value="operations made using method" />
     <MESSAGE value="String in java" />
@@ -437,6 +445,7 @@
     <MESSAGE value="Project: Hospital Management System (Using Inheritance)" />
     <MESSAGE value="Payment System" />
     <MESSAGE value="E-Commerce Shipping System (with Abstraction)" />
-    <option name="LAST_COMMIT_MESSAGE" value="E-Commerce Shipping System (with Abstraction)" />
+    <MESSAGE value="Build a Music Player System using interfaces." />
+    <option name="LAST_COMMIT_MESSAGE" value="Build a Music Player System using interfaces." />
   </component>
 </project>
