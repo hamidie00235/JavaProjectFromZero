@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Shape Area &amp; Perimeter Calculator">
-      <change afterPath="$PROJECT_DIR$/src/EnumProjects/DayOfWeek.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Days of the Week Scheduler">
+      <change afterPath="$PROJECT_DIR$/src/EnumProjects/TrafficLightSystem/TrafficLight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,12 +71,13 @@
     "Application.StreamingService.executor": "Run",
     "Application.StringInJava.executor": "Run",
     "Application.Teacher.executor": "Run",
+    "Application.TrafficLight.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DayOfWeek">
+  <component name="RunManager" selected="Application.TrafficLight">
     <configuration name="DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnumProjects.DayOfWeek" />
       <module name="MyProjectJuly" />
@@ -96,19 +97,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Inheritance.VehicleManagementSystem.ECommerceShippingSystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Patient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.VehicleManagementSystem.HospitalManagementSystem.Patient" />
-      <module name="MyProjectJuly" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Inheritance.VehicleManagementSystem.HospitalManagementSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,13 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TrafficLight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumProjects.TrafficLightSystem.TrafficLight" />
+      <module name="MyProjectJuly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EnumProjects.TrafficLightSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TrafficLight" />
         <item itemvalue="Application.DayOfWeek" />
         <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.StreamingService" />
         <item itemvalue="Application.FedEx" />
-        <item itemvalue="Application.Patient" />
       </list>
     </recent_temporary>
   </component>
@@ -425,11 +426,18 @@
       <option name="project" value="LOCAL" />
       <updated>1754692707615</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Days of the Week Scheduler">
+      <option name="closed" value="true" />
+      <created>1755385865735</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1755385865735</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="operations made using method" />
     <MESSAGE value="String in java" />
     <MESSAGE value="mini Project using OOP Concepts in Java" />
     <MESSAGE value="mini Project BankAccountManager using OOP Concepts in Java" />
@@ -454,6 +462,7 @@
     <MESSAGE value="E-Commerce Shipping System (with Abstraction)" />
     <MESSAGE value="Build a Music Player System using interfaces." />
     <MESSAGE value="Shape Area &amp; Perimeter Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Shape Area &amp; Perimeter Calculator" />
+    <MESSAGE value="Days of the Week Scheduler" />
+    <option name="LAST_COMMIT_MESSAGE" value="Days of the Week Scheduler" />
   </component>
 </project>
