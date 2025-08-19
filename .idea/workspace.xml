@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment=" Project: Order Status System">
-      <change afterPath="$PROJECT_DIR$/src/EnumProjects/CoffeeMachine/Main.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Project: Coffee Machine with Enum">
+      <change afterPath="$PROJECT_DIR$/src/EnumProjects/SolarSystem/Planet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +67,7 @@
     "Application.PJuly.executor": "Run",
     "Application.Patient.executor": "Run",
     "Application.PharmacySystem.executor": "Run",
+    "Application.Planet.executor": "Run",
     "Application.Rectangle.executor": "Run",
     "Application.RegistrationSystem.executor": "Run",
     "Application.ShoppingCart.executor": "Run",
@@ -80,26 +81,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Planet">
     <configuration name="CoffeeSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnumProjects.CoffeeMachine.CoffeeSize" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="EnumProjects.CoffeeMachine.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnumProjects.DayOfWeek" />
-      <module name="MyProjectJuly" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EnumProjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Planet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumProjects.SolarSystem.Planet" />
+      <module name="MyProjectJuly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EnumProjects.SolarSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TrafficLight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnumProjects.TrafficLightSystem.TrafficLight" />
       <module name="MyProjectJuly" />
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Planet" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CoffeeSize" />
         <item itemvalue="Application.OrderStatus" />
         <item itemvalue="Application.TrafficLight" />
-        <item itemvalue="Application.DayOfWeek" />
       </list>
     </recent_temporary>
   </component>
@@ -453,11 +454,29 @@
       <option name="project" value="LOCAL" />
       <updated>1755439658766</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Project: Coffee Machine with Enum">
+      <option name="closed" value="true" />
+      <created>1755535440922</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1755535440923</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mini Project BankAccountManager using OOP Concepts in Java" />
     <MESSAGE value="mini project library book using java" />
     <MESSAGE value="movie project using java" />
     <MESSAGE value="Contact project using java" />
@@ -482,7 +501,8 @@
     <MESSAGE value="Days of the Week Scheduler" />
     <MESSAGE value="Project: Traffic Light System (Enum + Behavior)" />
     <MESSAGE value=" Project: Order Status System" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Project: Order Status System" />
+    <MESSAGE value="Project: Coffee Machine with Enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project: Coffee Machine with Enum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
