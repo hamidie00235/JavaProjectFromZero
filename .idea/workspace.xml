@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Project: Coffee Machine with Enum">
-      <change afterPath="$PROJECT_DIR$/src/EnumProjects/SolarSystem/Planet.java" afterDir="false" />
+    <list default="true" id="221115f9-310e-4434-b96c-93fb5ec2ea04" name="Changes" comment="Project: Planets in the Solar System">
+      <change afterPath="$PROJECT_DIR$/src/EnumProjects/SportsTournament/Sport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +71,7 @@
     "Application.Rectangle.executor": "Run",
     "Application.RegistrationSystem.executor": "Run",
     "Application.ShoppingCart.executor": "Run",
+    "Application.Sport.executor": "Debug",
     "Application.StoreApp.executor": "Run",
     "Application.StreamingService.executor": "Run",
     "Application.StringInJava.executor": "Run",
@@ -81,7 +82,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Planet">
+  <component name="RunManager" selected="Application.Sport">
     <configuration name="CoffeeSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnumProjects.CoffeeMachine.CoffeeSize" />
       <module name="MyProjectJuly" />
@@ -134,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrafficLight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnumProjects.TrafficLightSystem.TrafficLight" />
+    <configuration name="Sport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumProjects.SportsTournament.Sport" />
       <module name="MyProjectJuly" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EnumProjects.TrafficLightSystem.*" />
+          <option name="PATTERN" value="EnumProjects.SportsTournament.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sport" />
         <item itemvalue="Application.Planet" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CoffeeSize" />
         <item itemvalue="Application.OrderStatus" />
-        <item itemvalue="Application.TrafficLight" />
       </list>
     </recent_temporary>
   </component>
@@ -462,7 +463,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755535440923</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Project: Planets in the Solar System">
+      <option name="closed" value="true" />
+      <created>1755596543897</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1755596543897</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mini project library book using java" />
     <MESSAGE value="movie project using java" />
     <MESSAGE value="Contact project using java" />
     <MESSAGE value="Course et Student project using java" />
@@ -502,7 +510,8 @@
     <MESSAGE value="Project: Traffic Light System (Enum + Behavior)" />
     <MESSAGE value=" Project: Order Status System" />
     <MESSAGE value="Project: Coffee Machine with Enum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project: Coffee Machine with Enum" />
+    <MESSAGE value="Project: Planets in the Solar System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project: Planets in the Solar System" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
